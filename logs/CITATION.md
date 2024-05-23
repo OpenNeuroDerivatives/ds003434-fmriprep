@@ -1,6 +1,6 @@
 
 Results included in this manuscript come from preprocessing
-performed using *fMRIPrep* 23.2.0
+performed using *fMRIPrep* 23.2.1
 (@fmriprep1; @fmriprep2; RRID:SCR_016216),
 which is based on *Nipype* 1.8.6
 (@nipype1; @nipype2; RRID:SCR_002502).
@@ -32,7 +32,7 @@ and accessed with *TemplateFlow* [23.1.0, @templateflow]:
 
 Functional data preprocessing
 
-: For each of the 6 BOLD runs found per subject (across all
+: For each of the 8 BOLD runs found per subject (across all
 tasks and sessions), the following preprocessing was performed.
 First, a reference volume was generated,
 using a custom methodology of *fMRIPrep*, for use in head motion correction.
